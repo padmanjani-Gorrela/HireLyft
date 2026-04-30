@@ -29,7 +29,7 @@ HireLyft is a scalable backend system designed to power a modern job portal, ena
 * ⚡ **Performance Optimizations**
 
   * Optimized database queries and indexing
-  * Improved API response time by ~35%
+  * Improved API response time by ~40%
   * Efficient handling of concurrent requests
 
 ---
