@@ -1,32 +1,32 @@
-# 🚀 HireLyft – Job Portal Backend
+#  HireLyft – Job Portal Backend
 
 HireLyft is a scalable backend system designed to power a modern job portal, enabling seamless job postings, applications, and secure user management. Built with a focus on clean architecture, performance, and extensibility.
 
 ---
 
-## 📌 Key Features
+##  Key Features
 
-* 🔐 **JWT-Based Authentication & Authorization**
+*  **JWT-Based Authentication & Authorization**
 
   * Secure login/signup system
   * Role-based access control (Admin, Recruiter, Job Seeker)
 
-* 📄 **Job Management System**
+* **Job Management System**
 
   * Create, update, delete job postings
   * Search and filter job listings
 
-* 📥 **Application Handling**
+*  **Application Handling**
 
   * Users can apply to jobs
   * Recruiters can manage applications efficiently
 
-* 🏗️ **Layered Architecture**
+*  **Layered Architecture**
 
   * Clean separation of concerns using Controller → Service → Repository pattern
   * Improves maintainability and scalability
 
-* ⚡ **Performance Optimizations**
+*  **Performance Optimizations**
 
   * Optimized database queries and indexing
   * Improved API response time by ~40%
@@ -34,7 +34,7 @@ HireLyft is a scalable backend system designed to power a modern job portal, ena
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Backend:** Spring Boot
 * **Database:** MySQL
@@ -44,7 +44,7 @@ HireLyft is a scalable backend system designed to power a modern job portal, ena
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -58,7 +58,7 @@ src/
 
 ---
 
-## 🔧 Setup & Installation
+##  Setup & Installation
 
 1. Clone the repository:
 
@@ -77,7 +77,7 @@ src/
 
 ---
 
-## 📊 API Highlights
+##  API Highlights
 
 * `POST /auth/register` → Register user
 * `POST /auth/login` → Authenticate user
@@ -87,7 +87,7 @@ src/
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 * Redis caching for faster job retrieval
 * Pagination & sorting support
@@ -97,7 +97,7 @@ src/
 
 ---
 
-## 💡 About the Project
+##  About the Project
 
 This project demonstrates strong backend engineering fundamentals including:
 
@@ -108,7 +108,7 @@ This project demonstrates strong backend engineering fundamentals including:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Padmanjani Gorrela**
 Backend Developer | Java | Spring Boot
